@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054020986228",
+    "project_id": "todovide",
+    "storage_bucket": "todovide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054020986228:android:89cde7687bfbff95433821",
+        "android_client_info": {
+          "package_name": "com.example.fbase_flutter_vide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054020986228-5239skkps9f8380a0h3fnvjs0eucvdkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASDappyMMD1AZllaTJvIAvnjwAwGNg9P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054020986228-5239skkps9f8380a0h3fnvjs0eucvdkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
